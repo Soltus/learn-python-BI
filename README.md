@@ -4,4 +4,9 @@
 
 ## 注意事项
 
-`/lesson2/作业/data/1.2` 的单文件大于 100M，无法推送至 github ，请自行备份还原（包含 `behavior.csv`  `tianchi_fresh_comp_train_user.csv`  `user.csv` ）
+以下单文件大于 100M，无法推送至 github ，请自行备份还原
+
+* /lesson2/作业/data/1.2/behavior.csv
+* /lesson2/作业/data/1.2/tianchi_fresh_comp_train_user.csv
+* /lesson2/作业/data/1.2/user.csv
+* /lesson2/作业/data/3/气候数据集.csv
